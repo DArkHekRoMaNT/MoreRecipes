@@ -1,0 +1,32 @@
+[
+  {
+    "ingredientPattern": "CCC,C_C,CCC",
+    "ingredients": {
+      "C": { "type": "block", "code": "game:cobblestone-*" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:stove-unlit-north" }
+  },
+  {
+    "ingredientPattern": "TS",
+    "ingredients": {
+      "T": { "type": "block", "code": "game:torch-up" },
+      "S": { "type": "block", "code": "game:stove-unlit-north" }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:stove-lit-north" }
+  },
+  {
+    "ingredientPattern": "S",
+    "ingredients": {
+      "S": { "type": "block", "code": "game:stove-lit-north" }
+    },
+    "width": 1,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:stove-unlit-north" }
+  }
+]

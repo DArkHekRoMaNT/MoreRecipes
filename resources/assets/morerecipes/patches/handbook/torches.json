@@ -1,0 +1,42 @@
+[
+  {
+    "file": "game:blocktypes/wood/generic/torch-orange.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  },
+  {
+    "file": "game:blocktypes/wood/generic/torch-pink.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  },
+  {
+    "file": "game:blocktypes/wood/generic/torch-blue.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  },
+  {
+    "file": "game:blocktypes/wood/generic/torch-green.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  },
+  {
+    "file": "game:blocktypes/wood/generic/redtorch.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  }
+]

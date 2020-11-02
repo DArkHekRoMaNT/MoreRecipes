@@ -1,0 +1,20 @@
+[
+  {
+    "ingredientPattern": "P",
+    "ingredients": {
+      "P": { "type": "item", "code": "game:metalplate-*", "name": "type" }
+    },
+    "width": 1,
+    "height": 1,
+    "output": { "type": "block", "code": "game:metalsheet-{type}-down", "quantity": 2 }
+  },
+  {
+    "ingredientPattern": "S",
+    "ingredients": {
+      "S": { "type": "block", "code": "game:metalsheet-*-down", "name": "type", "quantity": 2 }
+    },
+    "width": 1,
+    "height": 1,
+    "output": { "type": "item", "code": "game:metalplate-{type}" }
+  }
+]

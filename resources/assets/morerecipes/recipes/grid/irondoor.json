@@ -1,0 +1,9 @@
+{
+  "ingredientPattern": "II,II,II",
+  "ingredients": {
+    "I": { "type": "item", "code": "game:ingot-iron" }
+  },
+  "width": 2,
+  "height": 3,
+  "output": { "type": "block", "code": "game:irondoor-north-down-closed-left" }
+}

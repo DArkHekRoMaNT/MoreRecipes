@@ -1,0 +1,12 @@
+{
+  "ingredientPattern": "KQ",
+  "ingredients": {
+    "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+    "Q": { "type": "item", "code": "game:quiver" }
+  },
+  "name": "quiver",
+  "width": 2,
+  "height": 1,
+  "shapeless": true,
+  "output": { "type": "item", "code": "game:leather", "quantity": 4 }
+}

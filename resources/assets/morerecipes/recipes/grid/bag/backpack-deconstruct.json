@@ -1,0 +1,12 @@
+{
+  "ingredientPattern": "KB",
+  "ingredients": {
+    "K": { "type": "item", "code": "game:knife-*", "isTool": true },
+    "B": { "type": "item", "code": "game:backpack" }
+  },
+  "name": "backpack",
+  "width": 2,
+  "height": 1,
+  "shapeless": true,
+  "output": { "type": "item", "code": "game:leather", "quantity": 5 }
+}

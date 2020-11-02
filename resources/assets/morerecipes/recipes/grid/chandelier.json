@@ -1,0 +1,9 @@
+{
+  "ingredientPattern": "_I_,_I_,III",
+  "ingredients": {
+    "I": { "type": "item", "code": "game:ingot-iron" }
+  },
+  "width": 3,
+  "height": 3,
+  "output": { "type": "block", "code": "game:chandelier-candle0" }
+}

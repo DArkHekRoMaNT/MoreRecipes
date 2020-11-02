@@ -1,0 +1,24 @@
+[
+  {
+    "ingredientPattern": "H,I,S",
+    "ingredients": {
+      "H": { "type": "item", "code": "game:spearhead-flint" },
+      "I": { "type": "item", "code": "game:ingot-gold" },
+      "S": { "type": "item", "code": "game:stick" }
+    },
+    "width": 1,
+    "height": 3,
+    "output": { "type": "item", "code": "game:spear-ornate-gold" }
+  },
+  {
+    "ingredientPattern": "H,I,S",
+    "ingredients": {
+      "H": { "type": "item", "code": "game:spearhead-flint" },
+      "I": { "type": "item", "code": "game:ingot-silver" },
+      "S": { "type": "item", "code": "game:stick" }
+    },
+    "width": 1,
+    "height": 3,
+    "output": { "type": "item", "code": "game:spear-ornate-silver" }
+  }
+]

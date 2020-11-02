@@ -1,0 +1,10 @@
+[
+  {
+    "file": "game:blocktypes/plant/saguarocactus.json",
+    "op": "add",
+    "path": "/dropsByType",
+    "value": {
+      "*": [{ "type": "block", "code": "saguarocactus-{variants}" }]
+    }
+  }
+]

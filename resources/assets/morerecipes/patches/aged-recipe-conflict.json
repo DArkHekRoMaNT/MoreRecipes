@@ -1,0 +1,19 @@
+[
+  {
+    "file": "game:recipes/grid/table.json",
+    "op": "replace",
+    "path": "/ingredients",
+    "value": {
+      "W": { "type": "item", "code": "plank-*", "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"] }
+    }
+  },
+  {
+    "file": "game:recipes/grid/chair.json",
+    "op": "replace",
+    "path": "/ingredients",
+    "value": {
+      "W": { "type": "item", "code": "plank-*", "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"] },
+      "L": { "type": "block", "code": "linen-*-down" }
+    }
+  }
+]

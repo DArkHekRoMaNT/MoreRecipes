@@ -1,0 +1,20 @@
+[
+  {
+    "ingredientPattern": "I_I	I_I",
+    "ingredients": {
+      "I": { "type": "item", "code": "game:ingot-iron" }
+    },
+    "width": 3,
+    "height": 2,
+    "output": { "type": "block", "code": "game:ironfence-base-ew", "quantity": 16 }
+  },
+  {
+    "ingredientPattern": "III	I_I",
+    "ingredients": {
+      "I": { "type": "item", "code": "game:ingot-iron" }
+    },
+    "width": 3,
+    "height": 2,
+    "output": { "type": "block", "code": "game:ironfence-top-ew", "quantity": 16 }
+  }
+]

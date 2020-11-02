@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "LSL,LSL,LLL",
+  "ingredients": {
+    "L": { "type": "item", "code": "game:leather" },
+    "S": { "type": "item", "code": "game:stick" }
+  },
+  "name": "quiver",
+  "width": 3,
+  "height": 3,
+  "output": { "type": "item", "code": "game:quiver" }
+}

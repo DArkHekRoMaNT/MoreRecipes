@@ -1,0 +1,22 @@
+[
+  {
+    "ingredientPattern": "PPP,PGP,PPP",
+    "ingredients": {
+      "P": { "type": "item", "code": "game:plank-*" },
+      "G": { "type": "item", "code": "game:ingot-gold" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:chest-east", "attributes": { "type": "golden" } }
+  },
+  {
+    "ingredientPattern": "PPP,PSP,PPP",
+    "ingredients": {
+      "P": { "type": "item", "code": "game:plank-*" },
+      "Q": { "type": "item", "code": "game:ingot-silver" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:chest-east", "attributes": { "type": "owl" } }
+  }
+]

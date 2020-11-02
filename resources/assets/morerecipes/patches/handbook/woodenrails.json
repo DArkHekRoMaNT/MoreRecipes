@@ -1,0 +1,10 @@
+[
+  {
+    "file": "game:blocktypes/wood/generic/rails.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  }
+]

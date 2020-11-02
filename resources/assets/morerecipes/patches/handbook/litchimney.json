@@ -1,0 +1,11 @@
+[
+  {
+    "file": "game:blocktypes/clay/chimney.json",
+    "op": "replace",
+    "path": "/attributes/handbook/excludeByType",
+    "value": {
+      "*-fire-*": true,
+      "*-red-*": true
+    }
+  }
+]

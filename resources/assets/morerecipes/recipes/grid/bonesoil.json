@@ -1,0 +1,10 @@
+{
+  "ingredientPattern": "_B_,BDB,_B_",
+  "ingredients": {
+    "B": { "type": "item", "code": "game:bone" },
+    "D": { "type": "block", "code": "game:soil-medium-none" }
+  },
+  "width": 3,
+  "height": 3,
+  "output": { "type": "block", "code": "game:bonysoil" }
+}

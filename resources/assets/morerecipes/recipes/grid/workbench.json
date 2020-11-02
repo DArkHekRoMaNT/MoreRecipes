@@ -1,0 +1,9 @@
+{
+  "ingredientPattern": "PP,PP",
+  "ingredients": {
+    "P": { "type": "block", "code": "game:planks-*" }
+  },
+  "width": 2,
+  "height": 2,
+  "output": { "type": "block", "code": "game:workbench-north" }
+}
