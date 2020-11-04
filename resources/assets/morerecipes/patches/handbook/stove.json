@@ -1,0 +1,10 @@
+[
+  {
+    "file": "game:blocktypes/stone/generic/stove.json",
+    "op": "replace",
+    "path": "/attributes/handbook",
+    "value": {
+      "exclude": false
+    }
+  }
+]

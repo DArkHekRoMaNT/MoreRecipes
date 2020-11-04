@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "PLP",
+  "ingredients": {
+    "L": { "type": "item", "code": "game:linensack" },
+    "P": { "type": "item", "code": "game:metalplate-*", "allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze"] }
+  },
+  "width": 3,
+  "height": 1,
+  "name": "miningbag",
+  "output": { "type": "item", "code": "game:miningbag" }
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:blocktypes/wood/generic/crate.json",
+    "op": "add",
+    "path": "/attributes/quantitySlots",
+    "value": 8
+  }
+]
