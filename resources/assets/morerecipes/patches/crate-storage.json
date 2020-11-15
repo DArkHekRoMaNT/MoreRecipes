@@ -4,5 +4,17 @@
     "op": "add",
     "path": "/attributes/quantitySlots",
     "value": 8
+  },
+  {
+    "file": "game:blocktypes/wood/generic/crate.json",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [{ "name": "Container" }]
+  },
+  {
+    "file": "game:blocktypes/wood/generic/crate.json",
+    "op": "add",
+    "path": "/entityclass",
+    "value": "GenericContainer"
   }
 ]
