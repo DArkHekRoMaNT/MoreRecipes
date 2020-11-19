@@ -4,7 +4,7 @@
   "name": "More Recipes",
   "description": "Adds a recipe for some items and blocks, a full list of items can be found on the forum",
   "authors": ["DArkHekRoMaNT"],
-  "version": "1.3.3",
+  "version": "1.3.4",
   "dependencies": {
     "game": "1.13.0"
   },
