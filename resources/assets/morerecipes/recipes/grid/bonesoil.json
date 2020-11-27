@@ -1,4 +1,5 @@
 {
+  "enabled": false,
   "ingredientPattern": "_B_,BDB,_B_",
   "ingredients": {
     "B": { "type": "item", "code": "game:bone" },
