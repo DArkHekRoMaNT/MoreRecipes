@@ -13,7 +13,7 @@
     "ingredientPattern": "PPP,PSP,PPP",
     "ingredients": {
       "P": { "type": "item", "code": "game:plank-*" },
-      "Q": { "type": "item", "code": "game:ingot-silver" }
+      "S": { "type": "item", "code": "game:ingot-silver" }
     },
     "width": 3,
     "height": 3,
