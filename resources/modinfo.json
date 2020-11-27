@@ -2,11 +2,11 @@
   "type": "content",
   "modid": "morerecipes",
   "name": "More Recipes",
-  "description": "Adds a recipe for some items and blocks, a full list of items can be found on the forum",
+  "description": "Adds a recipe for some vanilla items and blocks, a full list can be found on the forum",
   "authors": ["DArkHekRoMaNT"],
-  "version": "1.3.4",
+  "version": "1.4.0",
   "dependencies": {
-    "game": "1.13.0"
+    "game": "1.14.0-rc.4"
   },
   "website": "https://www.vintagestory.at/forums/topic/2130-more-recipes/"
 }
