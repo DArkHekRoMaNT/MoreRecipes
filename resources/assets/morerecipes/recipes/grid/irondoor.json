@@ -1,4 +1,5 @@
 {
+  "enable": false,
   "ingredientPattern": "II,II,II",
   "ingredients": {
     "I": { "type": "item", "code": "game:ingot-iron" }
