@@ -1,0 +1,10 @@
+{
+  "ingredientPattern": "MS",
+  "ingredients": {
+    "M": { "type": "block", "code": "game:mossycobblestone-*", "name": "type" },
+    "S": { "type": "block", "code": "game:cobblestone-*", "name": "type" }
+  },
+  "width": 2,
+  "height": 1,
+  "output": { "type": "block", "code": "game:lichencobblestone-{type}" }
+}

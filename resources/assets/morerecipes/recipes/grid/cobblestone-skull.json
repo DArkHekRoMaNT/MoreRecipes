@@ -1,0 +1,23 @@
+{
+  "ingredientPattern": "_B_,BSB,_B_",
+  "ingredients": {
+    "B": { "type": "item", "code": "game:bone" },
+    "S": {
+      "type": "block",
+      "code": "game:cobblestone-*",
+      "allowedVariants": [
+        "andesite",
+        "chalk",
+        "claystone",
+        "granite",
+        "sandstone",
+        "shale",
+        "basalt"
+      ],
+      "name": "type"
+    }
+  },
+  "width": 3,
+  "height": 3,
+  "output": { "type": "block", "code": "game:cobbleskull-{type}" }
+}
