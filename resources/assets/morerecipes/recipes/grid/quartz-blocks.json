@@ -1,0 +1,60 @@
+[
+  {
+    "ingredientPattern": "QQ,QQ",
+    "ingredients": {
+      "Q": { "type": "item", "code": "game:ore-quartz" }
+    },
+    "width": 2,
+    "height": 2,
+    "output": { "type": "block", "code": "game:quartz-plain" }
+  },
+  {
+    "ingredientPattern": "Q_,QQ",
+    "ingredients": {
+      "Q": { "type": "item", "code": "game:ore-quartz" }
+    },
+    "width": 2,
+    "height": 2,
+    "output": { "type": "block", "code": "game:quartzstairs-up-north-free" }
+  },
+  {
+    "ingredientPattern": "QQ",
+    "ingredients": {
+      "Q": { "type": "item", "code": "game:ore-quartz" }
+    },
+    "width": 2,
+    "height": 1,
+    "output": { "type": "block", "code": "game:quartzslab-down-free" }
+  },
+  {
+    "ingredientPattern": "QQQ",
+    "ingredients": {
+      "Q": { "type": "block", "code": "game:quartz-plain" }
+    },
+    "width": 3,
+    "height": 1,
+    "output": { "type": "block", "code": "game:quartz-ornate" }
+  },
+  {
+    "ingredientPattern": "Q,Q,Q",
+    "ingredients": {
+      "Q": { "type": "block", "code": "game:quartz-plain" }
+    },
+    "width": 1,
+    "height": 3,
+    "output": { "type": "block", "code": "game:quartzpillar-ud" }
+  },
+  {
+    "ingredientPattern": "Q",
+    "ingredients": {
+      "Q": {
+        "type": "block",
+        "code": "game:quartz*",
+        "allowedVariants": ["-ornate", "pillar-ud"]
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": { "type": "block", "code": "game:quartz-plain" }
+  }
+]
