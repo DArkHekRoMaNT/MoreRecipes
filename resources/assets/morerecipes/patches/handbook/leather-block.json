@@ -1,6 +1,6 @@
 [
   {
-    "file": "game:blocktypes/stone/generic/stove.json",
+    "file": "game:blocktypes/cloth/leather.json",
     "op": "replace",
     "path": "/attributes/handbook/exclude",
     "value": false

@@ -1,0 +1,22 @@
+[
+  {
+    "ingredientPattern": "LL,LL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:leather" }
+    },
+    "width": 2,
+    "height": 2,
+    "output": { "type": "block", "code": "game:leather" }
+  },
+  {
+    "ingredientPattern": "LK",
+    "ingredients": {
+      "L": { "type": "block", "code": "game:leather" },
+      "K": { "type": "item", "code": "game:knife-*", "isTool": true }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeles": true,
+    "output": { "type": "item", "code": "game:leather", "quantity": 4 }
+  }
+]
