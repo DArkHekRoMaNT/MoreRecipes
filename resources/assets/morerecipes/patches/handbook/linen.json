@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:blocktypes/cloth/linen.json",
+    "op": "replace",
+    "path": "/attributes/handbook/excludeByType",
+    "value": {}
+  }
+]
