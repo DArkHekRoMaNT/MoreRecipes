@@ -21,11 +21,7 @@
     },
     "width": 3,
     "height": 3,
-    "output": {
-      "type": "block",
-      "code": "game:mossystonebricks-{type}",
-      "quantity": 8
-    }
+    "output": { "type": "block", "code": "game:mossystonebricks-{type}" }
   },
   {
     "ingredientPattern": "SSS,SVS,SSS",
@@ -35,10 +31,6 @@
     },
     "width": 3,
     "height": 3,
-    "output": {
-      "type": "block",
-      "code": "game:mossyrockpolished-{type}",
-      "quantity": 8
-    }
+    "output": { "type": "block", "code": "game:mossyrockpolished-{type}" }
   }
 ]
