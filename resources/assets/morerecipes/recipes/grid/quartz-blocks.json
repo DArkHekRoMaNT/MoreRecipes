@@ -33,7 +33,7 @@
     },
     "width": 3,
     "height": 1,
-    "output": { "type": "block", "code": "game:quartz-ornate" }
+    "output": { "type": "block", "code": "game:quartz-ornate", "quantity": 3 }
   },
   {
     "ingredientPattern": "Q,Q,Q",
@@ -42,7 +42,7 @@
     },
     "width": 1,
     "height": 3,
-    "output": { "type": "block", "code": "game:quartzpillar-ud" }
+    "output": { "type": "block", "code": "game:quartzpillar-ud", "quantity": 3 }
   },
   {
     "ingredientPattern": "Q",
