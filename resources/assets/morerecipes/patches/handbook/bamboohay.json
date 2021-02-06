@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:blocktypes/hay.json",
+    "op": "replace",
+    "path": "/attributes/handbook/excludeByType/*-bamboo",
+    "value": false
+  }
+]
