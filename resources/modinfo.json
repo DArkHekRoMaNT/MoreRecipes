@@ -4,10 +4,10 @@
   "name": "More Recipes",
   "description": "Adds a recipe for some vanilla items and blocks, a full list can be found on the forum",
   "authors": ["DArkHekRoMaNT"],
-  "contributors":["luette"],
-  "version": "1.4.9",
+  "contributors": ["luette"],
+  "version": "1.4.10",
   "dependencies": {
     "game": "1.14.0"
   },
-  "website": "https://www.vintagestory.at/forums/topic/2130-more-recipes/"
+  "website": "https://github.com/DArkHekRoMaNT/MoreRecipes"
 }
