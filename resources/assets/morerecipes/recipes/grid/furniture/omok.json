@@ -1,0 +1,27 @@
+{
+  "ingredientPattern": "B_W,PPP",
+  "ingredients": {
+    "W": {
+      "type": "item",
+      "code": "game:stone*",
+      "allowedVariants": ["-basalt", "-obsidian"],
+      "quantity": 4
+    },
+    "B": {
+      "type": "item",
+      "code": "game:stone-*",
+      "allowedVariants": [
+        "whitemarble",
+        "pinkmarble",
+        "greenmarble",
+        "chalk",
+        "granite"
+      ],
+      "quantity": 4
+    },
+    "P": { "type": "item", "code": "game:plank-*" }
+  },
+  "width": 3,
+  "height": 2,
+  "output": { "type": "block", "code": "game:omoktabletop" }
+}

@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "_R_,STS",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:storagevessel-burned" },
+    "S": { "type": "item", "code": "game:crushed-olivine", "quantity": 2 },
+    "R": { "type": "item", "code": "game:metalplate-copper", "quantity": 1 }
+  },
+  "width": 3,
+  "height": 2,
+  "output": { "type": "block", "code": "game:storagevessel-springflowers" }
+}

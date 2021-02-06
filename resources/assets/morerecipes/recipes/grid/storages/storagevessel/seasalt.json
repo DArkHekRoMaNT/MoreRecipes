@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "RTR,_S_",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:storagevessel-burned" },
+    "S": { "type": "item", "code": "game:metalplate-silver", "quantity": 1 },
+    "R": { "type": "item", "code": "game:quicklime", "quantity": 2 }
+  },
+  "width": 3,
+  "height": 2,
+  "output": { "type": "block", "code": "game:storagevessel-seasalt" }
+}

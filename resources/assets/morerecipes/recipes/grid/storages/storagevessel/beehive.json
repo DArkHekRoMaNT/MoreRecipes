@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "_S_,RTR,_R_",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:storagevessel-burned" },
+    "S": { "type": "item", "code": "game:resin", "quantity": 2 },
+    "R": { "type": "item", "code": "game:beeswax", "quantity": 1 }
+  },
+  "width": 3,
+  "height": 3,
+  "output": { "type": "block", "code": "game:storagevessel-beehive" }
+}

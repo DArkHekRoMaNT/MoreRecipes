@@ -1,0 +1,57 @@
+[
+  {
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": { "type": "block", "code": "game:torch-up" },
+      "C": { "type": "block", "code": "game:mushroom-flyagaric-normal-free" }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:redtorch-up" }
+  },
+  {
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": { "type": "block", "code": "game:torch-up" },
+      "C": { "type": "item", "code": "game:ore-cinnabar" }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:pinktorch-up" }
+  },
+  {
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": { "type": "block", "code": "game:torch-up" },
+      "C": { "type": "item", "code": "game:vegetable-pumpkin" }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:orangetorch-up" }
+  },
+  {
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": { "type": "block", "code": "game:torch-up" },
+      "C": { "type": "item", "code": "game:nugget-malachite" }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:greentorch-up" }
+  },
+  {
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": { "type": "block", "code": "game:torch-up" },
+      "C": { "type": "item", "code": "game:ore-lapislazuli" }
+    },
+    "width": 2,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:bluetorch-up" }
+  }
+]

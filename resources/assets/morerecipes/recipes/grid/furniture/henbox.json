@@ -1,0 +1,93 @@
+[
+  {
+    "ingredientPattern": "DD,PP",
+    "ingredients": {
+      "D": { "type": "item", "code": "game:drygrass" },
+      "P": { "type": "item", "code": "game:plank-*" }
+    },
+    "width": 2,
+    "height": 2,
+    "output": { "type": "block", "code": "game:henbox-empty" }
+  },
+  {
+    "ingredientPattern": "H,E",
+    "ingredients": {
+      "H": { "type": "block", "code": "game:henbox-empty" },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 1,
+    "height": 2,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-1egg" }
+  },
+  {
+    "ingredientPattern": "H_,EE",
+    "ingredients": {
+      "H": { "type": "block", "code": "game:henbox-empty" },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-2eggs" }
+  },
+  {
+    "ingredientPattern": "H__,EEE",
+    "ingredients": {
+      "H": { "type": "block", "code": "game:henbox-empty" },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 3,
+    "height": 2,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-3eggs" }
+  },
+  {
+    "ingredientPattern": "H,E",
+    "ingredients": {
+      "H": { "type": "block", "code": "game:henbox-1egg" },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 1,
+    "height": 2,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-2eggs" }
+  },
+  {
+    "ingredientPattern": "H_,EE",
+    "ingredients": {
+      "H": { "type": "block", "code": "game:henbox-1egg" },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 2,
+    "height": 2,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-3eggs" }
+  },
+  {
+    "ingredientPattern": "H,E",
+    "ingredients": {
+      "H": { "type": "block", "code": "game:henbox-2eggs" },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 1,
+    "height": 2,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-3eggs" }
+  },
+  {
+    "ingredientPattern": "H",
+    "ingredients": {
+      "H": {
+        "type": "block",
+        "code": "game:henbox-*",
+        "allowedVariants": ["1egg", "2eggs", "3eggs"]
+      },
+      "E": { "type": "item", "code": "game:egg-chicken-raw" }
+    },
+    "width": 1,
+    "height": 1,
+    "shapeless": true,
+    "output": { "type": "block", "code": "game:henbox-empty" }
+  }
+]
