@@ -1,0 +1,11 @@
+{
+	ingredientPattern: "R,T,S",
+	ingredients: {
+		"T": { type: "block", code: "game:storagevessel-burned" },
+		"S": { type: "item", code: "game:resin", quantity: 2 },
+		"R": { type: "item", code: "game:metalplate-bismuth", quantity: 1 }
+	},
+	width: 1,
+	height: 3,
+	output: { type: "block", code: "game:storagevessel-harvest", quantity: 1 }
+}

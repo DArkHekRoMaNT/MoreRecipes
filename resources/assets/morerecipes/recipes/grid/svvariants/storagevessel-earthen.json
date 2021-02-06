@@ -1,0 +1,10 @@
+{
+	ingredientPattern: "S,T,S",
+	ingredients: {
+		"T": { type: "block", code: "game:storagevessel-burned" },
+		"S": { type: "item", code: "game:rawbrick-fire" }
+	},
+	width: 1,
+	height: 3,
+	output: { type: "block", code: "game:storagevessel-earthen", quantity: 1  }
+}
