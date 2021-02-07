@@ -5,7 +5,7 @@
   "description": "Adds a recipe for some vanilla items and blocks, a full list can be found on the forum",
   "authors": ["DArkHekRoMaNT"],
   "contributors": ["luette"],
-  "version": "1.4.10",
+  "version": "1.4.11",
   "dependencies": {
     "game": "1.14.0"
   },
