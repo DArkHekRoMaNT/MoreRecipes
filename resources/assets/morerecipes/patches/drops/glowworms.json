@@ -3,9 +3,6 @@
     "file": "game:blocktypes/plant/glowworms.json",
     "op": "add",
     "path": "/drops/0",
-    "value": {
-      "type": "block",
-      "code": "glowworms-{type}"
-    }
+    "value": { "type": "block", "code": "glowworms-{type}" }
   }
 ]

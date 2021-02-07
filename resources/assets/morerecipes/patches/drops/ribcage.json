@@ -3,9 +3,6 @@
     "file": "game:blocktypes/bone/bonyremains.json",
     "op": "replace",
     "path": "/drops/0",
-    "value": {
-      "type": "block",
-      "code": "game:bonyremains-{type}"
-    }
+    "value": { "type": "block", "code": "game:bonyremains-{type}" }
   }
 ]

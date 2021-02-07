@@ -3,9 +3,6 @@
     "file": "game:blocktypes/plant/seaweed.json",
     "op": "add",
     "path": "/drops/0",
-    "value": {
-      "type": "block",
-      "code": "seaweed-{part}"
-    }
+    "value": { "type": "block", "code": "seaweed-{part}" }
   }
 ]
