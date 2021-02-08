@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "S,T,R",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:clayplanter-burnt" },
+    "R": { "type": "item", "code": "game:ingot-silver", "quantity": 1 },
+    "S": { "type": "item", "code": "game:quicklime", "quantity": 2 }
+  },
+  "width": 1,
+  "height": 3,
+  "output": { "type": "block", "code": "game:clayplanter-seasalt" }
+}

@@ -1,0 +1,10 @@
+{
+  "ingredientPattern": "STS,_S_",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:clayplanter-burnt" },
+    "S": { "type": "item", "code": "game:clay-fire", "quantity": 2 }
+  },
+  "width": 3,
+  "height": 2,
+  "output": { "type": "block", "code": "game:clayplanter-amber" }
+}

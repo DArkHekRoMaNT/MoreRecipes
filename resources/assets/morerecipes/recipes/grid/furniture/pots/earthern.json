@@ -1,0 +1,10 @@
+{
+  "ingredientPattern": "T,S",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:flowerpot-burnt" },
+    "S": { "type": "item", "code": "game:rawbrick-fire", "quantity": 1 }
+  },
+  "width": 1,
+  "height": 2,
+  "output": { "type": "block", "code": "game:flowerpot-earthern" }
+}

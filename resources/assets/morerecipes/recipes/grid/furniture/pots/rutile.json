@@ -1,0 +1,11 @@
+{
+  "ingredientPattern": "S,T,R",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:flowerpot-burnt" },
+    "R": { "type": "item", "code": "game:ore-lapislazuli", "quantity": 1 },
+    "S": { "type": "item", "code": "game:quicklime", "quantity": 2 }
+  },
+  "width": 1,
+  "height": 3,
+  "output": { "type": "block", "code": "game:flowerpot-rutile" }
+}

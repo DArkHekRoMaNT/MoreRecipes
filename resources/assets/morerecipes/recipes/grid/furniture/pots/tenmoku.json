@@ -1,0 +1,10 @@
+{
+  "ingredientPattern": "STS",
+  "ingredients": {
+    "T": { "type": "block", "code": "game:flowerpot-burnt" },
+    "S": { "type": "item", "code": "game:quicklime", "quantity": 1 }
+  },
+  "width": 3,
+  "height": 1,
+  "output": { "type": "block", "code": "game:flowerpot-tenmoku" }
+}
