@@ -1,0 +1,101 @@
+[
+  {
+    "ingredientPattern": "SBT,FLT,PPT",
+    "ingredients": {
+      "S": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "B": { "type": "item", "code": "game:plank-*", "quantity": 4 },
+      "F": { "type": "item", "code": "game:fat" },
+      "L": { "type": "block", "code": "game:linen-*-down" },
+      "T": { "type": "block", "code": "game:sapling-pine-free" },
+      "P": { "type": "item", "code": "game:hide-pelt-medium" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:painting-howl-north" }
+  },
+  {
+    "ingredientPattern": "SBT,FLT,GPT",
+    "ingredients": {
+      "S": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "B": { "type": "item", "code": "game:plank-*", "quantity": 4 },
+      "F": { "type": "item", "code": "game:fat" },
+      "L": { "type": "block", "code": "game:linen-*-down" },
+      "T": { "type": "block", "code": "game:sapling-oak-free" },
+      "P": { "type": "item", "code": "game:hide-pelt-huge" },
+      "G": { "type": "item", "code": "game:drygrass", "quantity": 4 }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:painting-elk-north" }
+  },
+  {
+    "ingredientPattern": "SBW,FLW,UHW",
+    "ingredients": {
+      "S": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "B": { "type": "item", "code": "game:plank-*", "quantity": 4 },
+      "F": { "type": "item", "code": "game:fat" },
+      "L": { "type": "block", "code": "game:linen-*-down" },
+      "W": { "type": "block", "code": "game:seaweed-*" },
+      "H": { "type": "block", "code": "game:seashell-*" },
+      "U": { "type": "block", "code": "game:woodbucket" }
+    },
+    "width": 3,
+    "height": 3,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": { "type": "item", "code": "waterportion" },
+        "requiresQuantity": 1
+      }
+    },
+    "output": { "type": "block", "code": "game:painting-underwater-north" }
+  },
+  {
+    "ingredientPattern": "SBW,FLW,GHW",
+    "ingredients": {
+      "S": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "B": { "type": "item", "code": "game:plank-*", "quantity": 4 },
+      "F": { "type": "item", "code": "game:fat" },
+      "L": { "type": "block", "code": "game:linen-*-down" },
+      "W": { "type": "block", "code": "game:flower-*-free" },
+      "H": { "type": "item", "code": "game:hide-pelt-small" },
+      "G": { "type": "item", "code": "game:drygrass", "quantity": 4 }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:painting-prey-north" }
+  },
+  {
+    "ingredientPattern": "SBT,FLT,HHH",
+    "ingredients": {
+      "S": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "B": { "type": "item", "code": "game:plank-*", "quantity": 4 },
+      "F": { "type": "item", "code": "game:fat" },
+      "L": { "type": "block", "code": "game:linen-*-down" },
+      "H": { "type": "item", "code": "game:hide-pelt-small" },
+      "T": { "type": "block", "code": "game:sapling-oak-free" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:painting-forestdawn-north" }
+  },
+  {
+    "ingredientPattern": "SBA,FLA,UAA",
+    "ingredients": {
+      "S": { "type": "item", "code": "game:saw-*", "isTool": true },
+      "B": { "type": "item", "code": "game:plank-*", "quantity": 4 },
+      "F": { "type": "item", "code": "game:fat" },
+      "L": { "type": "block", "code": "game:linen-*-down" },
+      "A": { "type": "item", "code": "game:salt" },
+      "U": { "type": "block", "code": "game:woodbucket" }
+    },
+    "width": 3,
+    "height": 3,
+    "attributes": {
+      "liquidContainerProps": {
+        "requiresContent": { "type": "item", "code": "waterportion" },
+        "requiresQuantity": 1
+      }
+    },
+    "output": { "type": "block", "code": "game:painting-fishandtherain-north" }
+  }
+]
