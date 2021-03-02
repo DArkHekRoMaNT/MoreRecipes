@@ -4,7 +4,11 @@
     "op": "replace",
     "path": "/ingredients",
     "value": {
-      "W": { "type": "item", "code": "plank-*", "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"] }
+      "W": {
+        "type": "item",
+        "code": "plank-*",
+        "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"]
+      }
     }
   },
   {
@@ -12,7 +16,11 @@
     "op": "replace",
     "path": "/ingredients",
     "value": {
-      "W": { "type": "item", "code": "plank-*", "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"] },
+      "W": {
+        "type": "item",
+        "code": "plank-*",
+        "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"]
+      },
       "L": { "type": "block", "code": "linen-*-down" }
     }
   }
