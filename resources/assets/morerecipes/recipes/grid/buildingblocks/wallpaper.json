@@ -1,0 +1,35 @@
+[
+  {
+    "ingredientPattern": "ABC",
+    "ingredients": {
+      "A": { "type": "block", "code": "game:planks-aged" },
+      "B": { "type": "block", "code": "game:linen-*-down" },
+      "C": { "type": "item", "code": "game:nugget-galena" }
+    },
+    "width": 3,
+    "height": 1,
+    "output": { "type": "block", "code": "game:agedwallpaperplanks-grey-east" }
+  },
+  {
+    "ingredientPattern": "ABC",
+    "ingredients": {
+      "A": { "type": "block", "code": "game:planks-aged" },
+      "B": { "type": "block", "code": "game:linen-*-down" },
+      "C": { "type": "item", "code": "game:nugget-malachite" }
+    },
+    "width": 3,
+    "height": 1,
+    "output": { "type": "block", "code": "game:agedwallpaperplanks-green-east" }
+  },
+  {
+    "ingredientPattern": "ABC",
+    "ingredients": {
+      "A": { "type": "block", "code": "game:planks-aged" },
+      "B": { "type": "block", "code": "game:linen-*-down" },
+      "C": { "type": "item", "code": "game:ore-lapislazuli" }
+    },
+    "width": 3,
+    "height": 1,
+    "output": { "type": "block", "code": "game:agedwallpaperplanks-blue-east" }
+  }
+]
