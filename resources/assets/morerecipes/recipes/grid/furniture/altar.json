@@ -1,0 +1,14 @@
+[
+  {
+    "ingredientPattern": "_C_,HSL",
+    "ingredients": {
+      "H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 100 },
+      "L": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 100 },
+      "C": { "type": "block", "code": "game:smallcarpet-purple" },
+      "S": { "type": "block", "code": "game:rock-shale" }
+    },
+    "width": 3,
+    "height": 2,
+    "output": { "type": "block", "code": "game:altar-north" }
+  }
+]

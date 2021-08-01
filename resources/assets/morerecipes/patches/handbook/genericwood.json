@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:blocktypes/wood/genericwood.json",
+    "op": "replace",
+    "path": "/attributes/handbook/exclude",
+    "value": false
+  }
+]

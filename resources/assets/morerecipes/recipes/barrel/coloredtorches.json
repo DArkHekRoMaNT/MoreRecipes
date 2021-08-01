@@ -1,0 +1,15 @@
+{
+  "code": "pickledplanks",
+  "ingredients": [
+    {
+      "type": "item",
+      "code": "game:dye-*",
+      "quantity": 1,
+      "consumeQuantity": 1,
+      "name": "type",
+      "allowedVariants": ["blue", "red", "green", "orange", "pink"]
+    },
+    { "type": "block", "code": "game:torch-up" }
+  ],
+  "output": { "type": "block", "code": "game:{type}torch-up" }
+}

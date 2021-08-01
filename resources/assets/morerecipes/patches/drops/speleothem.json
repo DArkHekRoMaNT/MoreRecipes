@@ -1,7 +1,7 @@
 [
   {
     "file": "game:blocktypes/stone/stalagsection.json",
-    "op": "add",
+    "op": "replace",
     "path": "/drops/0",
     "value": { "type": "block", "code": "stalagsection-{rock}-{thickness}" }
   }

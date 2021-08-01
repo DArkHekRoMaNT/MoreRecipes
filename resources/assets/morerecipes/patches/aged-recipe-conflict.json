@@ -2,12 +2,25 @@
   {
     "file": "game:recipes/grid/table.json",
     "op": "replace",
-    "path": "/ingredients",
+    "path": "/0/ingredients",
     "value": {
       "W": {
         "type": "item",
         "code": "plank-*",
-        "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"]
+        "allowedVariants": [
+          "birch",
+          "oak",
+          "maple",
+          "pine",
+          "acacia",
+          "kapok",
+          "baldcypress",
+          "larch",
+          "reedwood",
+          "ebony",
+          "walnut",
+          "purpleheart"
+        ]
       }
     }
   },
@@ -19,7 +32,20 @@
       "W": {
         "type": "item",
         "code": "plank-*",
-        "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok"]
+        "allowedVariants": [
+          "birch",
+          "oak",
+          "maple",
+          "pine",
+          "acacia",
+          "kapok",
+          "baldcypress",
+          "larch",
+          "reedwood",
+          "ebony",
+          "walnut",
+          "purpleheart"
+        ]
       },
       "L": { "type": "block", "code": "linen-*-down" }
     }

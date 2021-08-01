@@ -5,7 +5,7 @@
       "P": { "type": "item", "code": "game:plank-aged", "quantity": 2 },
       "L": { "type": "block", "code": "game:linen-*-down" },
       "I": { "type": "item", "code": "game:ingot-iron" },
-      "H": { "type": "block", "code": "game:hay-bamboo" }
+      "H": { "type": "block", "code": "game:stackedbamboo-ud" }
     },
     "width": 3,
     "height": 3,
