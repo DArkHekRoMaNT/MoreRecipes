@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:blocktypes/cloth/wallpaper.json",
+    "op": "add",
+    "path": "/behaviors/0/properties/removable",
+    "value": true
+  },
+  {
+    "file": "game:blocktypes/cloth/wallpaper.json",
+    "op": "add",
+    "path": "/drops/0",
+    "value": { "type": "block", "code": "game:wallpaper-{type}" }
+  },
+  {
+    "file": "game:blocktypes/plant/attachingplant.json",
+    "op": "add",
+    "path": "/behaviors/0/properties/removable",
+    "value": true
+  },
+  {
+    "file": "game:blocktypes/plant/attachingplant.json",
+    "op": "add",
+    "path": "/drops/0",
+    "value": { "type": "block", "code": "game:attachingplant-{type}" }
+  }
+]
